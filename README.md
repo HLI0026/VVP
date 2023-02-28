@@ -1,4 +1,4 @@
-### TVVP
+### VVP
 
 This repository is for a course VVP at VSB-TUO.
 
